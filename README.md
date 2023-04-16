@@ -1,2 +1,2 @@
-# confused
-Kodi confused repository
+# Confused
+Kodi Confused repository
