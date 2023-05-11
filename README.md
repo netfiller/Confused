@@ -1,2 +1,2 @@
 # Confused
-Kodi Confused repository
+Confused app & repository
